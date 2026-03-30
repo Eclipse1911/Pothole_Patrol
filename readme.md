@@ -217,6 +217,6 @@ MIT World Peace University, Pune
 ---
 
 <div align="center">
-  <strong>PotholePatrol · Smart Cities · MIT-WPU · IGNISIA 2025</strong><br/>
+  <strong>PotholePatrol · Smart Cities </strong><br/>
   <em>Detect. Prioritize. Dispatch. Repeat.</em>
 </div>#Pothole Patrol
