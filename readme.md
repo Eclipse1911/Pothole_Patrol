@@ -4,10 +4,10 @@
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Built with YOLOv8](https://img.shields.io/badge/CV-YOLOv8--nano-blue)](https://ultralytics.com)
-[![Backend](https://img.shields.io/badge/Backend-FastAPI%20%2B%20PostGIS-teal)](https://fastapi.tiangolo.com)
-[![Agentic AI](https://img.shields.io/badge/AI-LangChain%20%2B%20GPT-orange)](https://langchain.com)
-[![Theme](https://img.shields.io/badge/Theme-Smart%20Cities-purple)]()
-[![Hackathon](https://img.shields.io/badge/IGNISIA-MIT--WPU%20%7C%20Team%20MIT015-red)]()
+[![Backend](https://img.shields.io/badge/Backend-FastAPI-teal)](https://fastapi.tiangolo.com)
+[![Database](https://img.shields.io/badge/Database-PostGIS-blue)](https://postgis.net)
+[![AI](https://img.shields.io/badge/AI-LangChain-orange)](https://langchain.com)
+[![LLM](https://img.shields.io/badge/LLM-Gemini-yellow)](https://ai.google.dev)
 
 ---
 
@@ -219,3 +219,4 @@ MIT World Peace University, Pune
 <div align="center">
   <strong>PotholePatrol · Smart Cities </strong><br/>
   <em>Detect. Prioritize. Dispatch. Repeat.</em>
+</div>#Pothole Patrol
